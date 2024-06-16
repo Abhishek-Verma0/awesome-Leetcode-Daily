@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode Daily
 
 Welcome to my LeetCode Solutions repository! This repository contains my solutions to various LeetCode problems, implemented in multiple programming languages. This collection serves as a personal reference and a resource for others who are preparing for coding interviews or seeking to improve their problem-solving skills.
 
@@ -46,8 +46,8 @@ To use this repository, simply clone it to your local machine and navigate to th
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/your-username/leetcode-solutions.git
-cd leetcode-solutions
+git clone https: https://github.com/Abhishek-Verma0/Leetcode-Daily.git
+cd Leetcode-Daily
 ```
 
 ## Contributing
