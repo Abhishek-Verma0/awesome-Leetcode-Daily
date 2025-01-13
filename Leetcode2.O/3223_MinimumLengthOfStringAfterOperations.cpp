@@ -2,7 +2,7 @@
 /***
  * Complexity:
  *  1.  Time complexity: O(N)
- *  2. Space complexity: O(1)
+ *  2.  Space complexity: O(1)
  */
 
 
