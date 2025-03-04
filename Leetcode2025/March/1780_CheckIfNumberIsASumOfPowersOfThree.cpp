@@ -1,5 +1,5 @@
 /**
- * T.C -->> O(n) - n length of the given number
+ * T.C -->> O(log(n)) - n length of the given number
  * S.C --> O(1) -- coonstant as no extra space is used 
  *  */
 
