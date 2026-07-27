@@ -86,5 +86,29 @@ By participating in this project, you agree to abide by its code of conduct.
 Thank you for considering contributing to this project!
 
 
-# If you like then Please...  leave a star 🌟
+# If you like then Please...  leave a star ð
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+<!---LeetCode Topics End-->
