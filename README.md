@@ -86,7 +86,7 @@ By participating in this project, you agree to abide by its code of conduct.
 Thank you for considering contributing to this project!
 
 
-# If you like then Please...  leave a star ð
+# If you like then Please...  leave a star Ã°ÂÂÂ
 
 
 <!---LeetCode Topics Start-->
@@ -111,4 +111,32 @@ Thank you for considering contributing to this project!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+## Math
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
