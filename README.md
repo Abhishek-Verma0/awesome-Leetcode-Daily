@@ -86,7 +86,7 @@ By participating in this project, you agree to abide by its code of conduct.
 Thank you for considering contributing to this project!
 
 
-# If you like then Please...  leave a star Ã°ÂÂÂ
+# If you like then Please...  leave a star ÃÂ°ÃÂÃÂÃÂ
 
 
 <!---LeetCode Topics Start-->
@@ -131,7 +131,7 @@ Thank you for considering contributing to this project!
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
@@ -139,4 +139,12 @@ Thank you for considering contributing to this project!
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/1617-stone-game-iv) |
+## Array
+|  |
+| ------- |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
+## Hash Table
+|  |
+| ------- |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Abhishek-Verma0/awesome-Leetcode-Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
